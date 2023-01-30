@@ -25,7 +25,7 @@ public class Solution {
         }
         else if( N % 2 == 0 && N >= 6 && N <= 20 )
         {
-            System.out.print("Not Weird");
+            System.out.print("Weird");
         }
         else if( N % 2 == 0 && N > 20)
         {
